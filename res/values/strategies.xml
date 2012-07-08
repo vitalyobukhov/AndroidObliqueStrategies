@@ -1,0 +1,225 @@
+<resources>
+    <string-array name="strategies">
+        <item>(Organic) machinery.</item>
+        <item>A line has two sides.</item>
+        <item>A very small object -Its centre.</item>
+        <item>Abandon desire.</item>
+        <item>Abandon normal instructions.</item>
+        <item>Abandon normal instruments.</item>
+        <item>Accept advice.</item>
+        <item>Accretion.</item>
+        <item>Adding on.</item>
+        <item>Allow an easement.</item>
+        <item>Always first steps.</item>
+        <item>Always give yourself credit for having more than personality.</item>
+        <item>Always the first steps.</item>
+        <item>Are there sections? Consider transitions.</item>
+        <item>Ask people to work against their better judgement.</item>
+        <item>Ask your body.</item>
+        <item>Assemble some of the elements in a group and treat the group.</item>
+        <item>Assemble some of the instruments in a group and treat the group.</item>
+        <item>Balance the consistency principle with the inconsistency principle.</item>
+        <item>Be dirty.</item>
+        <item>Be extravagant.</item>
+        <item>Be less critical.</item>
+        <item>Be less critical more often.</item>
+        <item>Breathe more deeply.</item>
+        <item>Bridges -build -burn.</item>
+        <item>Cascades.</item>
+        <item>Change ambiguities to specifics.</item>
+        <item>Change instrument roles.</item>
+        <item>Change nothing and continue consistently.</item>
+        <item>Change nothing and continue with immaculate consistency.</item>
+        <item>Change specifics to ambiguities.</item>
+        <item>Children -speaking -singing.</item>
+        <item>Children\'s voices -speaking -singing.</item>
+        <item>Cluster analysis.</item>
+        <item>Consider different fading systems.</item>
+        <item>Consider transitions.</item>
+        <item>Consult other sources -promising -unpromising.</item>
+        <item>Convert a melodic element into a rhythmic element.</item>
+        <item>Courage!</item>
+        <item>Cut a vital connection.</item>
+        <item>Decorate, decorate.</item>
+        <item>Define an area as \'safe\' and use it as an anchor.</item>
+        <item>Destroy -nothing -the most important thing.</item>
+        <item>Destroy nothing; Destroy the most important thing.</item>
+        <item>Discard an axiom.</item>
+        <item>Disciplined self-indulgence.</item>
+        <item>Disconnect from desire.</item>
+        <item>Discover the recipes you are using and abandon them.</item>
+        <item>Discover your formulas and abandon them.</item>
+        <item>Display your talent.</item>
+        <item>Distort time.</item>
+        <item>Distorting time.</item>
+        <item>Do nothing for as long as possible.</item>
+        <item>Do something boring.</item>
+        <item>Do something sudden, destructive and unpredictable.</item>
+        <item>Do the last thing first.</item>
+        <item>Do the washing up.</item>
+        <item>Do the words need changing?</item>
+        <item>Do we need holes?</item>
+        <item>Don\'t avoid what is easy.</item>
+        <item>Don\'t be afraid of things because they\'re easy to do.</item>
+        <item>Don\'t be frightened of cliches.</item>
+        <item>Don\'t be frightened to display your talents.</item>
+        <item>Don\'t break the silence.</item>
+        <item>Don\'t stress *on* thing more than another.</item>
+        <item>Don\'t stress one thing more than another.</item>
+        <item>Emphasise differences.</item>
+        <item>Emphasise repetitions.</item>
+        <item>Emphasise the flaws.</item>
+        <item>Emphasize differences.</item>
+        <item>Emphasize the flaws.</item>
+        <item>Faced with a choice do both.</item>
+        <item>Faced with a choice, do both.</item>
+        <item>Feed the recording back out of the medium.</item>
+        <item>Feedback recordings into an acoustic situation.</item>
+        <item>Fill every beat with something.</item>
+        <item>Find a safe part and use it as an anchor.</item>
+        <item>From nothing to more than nothing.</item>
+        <item>Gardening, not architecture.</item>
+        <item>Get your neck massaged.</item>
+        <item>Ghost echoes.</item>
+        <item>Give the game away.</item>
+        <item>Give way to your worst impulse.</item>
+        <item>Go outside. Shut the door.</item>
+        <item>Go outside. Shut the door.</item>
+        <item>Go slowly all the way round the outside.</item>
+        <item>Go to an extreme, come part way back.</item>
+        <item>Go to an extreme, move back to a more comfortable place.</item>
+        <item>Honor thy error as a hidden intention.</item>
+        <item>Honour thy error as a hidden intention.</item>
+        <item>How would someone else do it?</item>
+        <item>How would you have done it?</item>
+        <item>Humanise something free of error.</item>
+        <item>Idiot glee.</item>
+        <item>Idiot glee (?)</item>
+        <item>Imagine the music as a moving chain or caterpillar.</item>
+        <item>Imagine the music as a set of disconnected events.</item>
+        <item>Imagine the piece as a set of disconnected events.</item>
+        <item>In total darkness or in a very large room, very quietly.</item>
+        <item>In total darkness, or in a very large room, very quietly.</item>
+        <item>Infinitesimal gradations.</item>
+        <item>Intentions -credibility of -nobility of -humility of.</item>
+        <item>Intentions -nobility of -humility of -credibility of.</item>
+        <item>Into the impossible.</item>
+        <item>Is it finished?</item>
+        <item>Is something missing?</item>
+        <item>Is the intonation correct?</item>
+        <item>Is the style right?</item>
+        <item>Is the tuning appropriate?</item>
+        <item>Is the tuning intonation correct?</item>
+        <item>Is there something missing?</item>
+        <item>It is quite possible (after all)</item>
+        <item>It is simply a matter or work.</item>
+        <item>Just carry on.</item>
+        <item>Left channel, right channel, centre channel.</item>
+        <item>Listen in total darkness, or in a very large room, very quietly.</item>
+        <item>Listen to the quiet voice.</item>
+        <item>Look at a very small object, look at its centre.</item>
+        <item>Look at the order in which you do things.</item>
+        <item>Look closely at the most embarrassing details and amplify them.</item>
+        <item>Lost in useless territory.</item>
+        <item>Lowest common denominator.</item>
+        <item>Lowest common denominator check -single beat -single note -single riff.</item>
+        <item>Magnify the most difficult details.</item>
+        <item>Make a blank valuable by putting it in an exquisite frame.</item>
+        <item>Make a sudden, destructive unpredictable action; incorporate.</item>
+        <item>Make an exhaustive list of everything you might do and do the last thing on the list.</item>
+        <item>Make it more sensual.</item>
+        <item>Make something implied more definite (reinforce, duplicate)</item>
+        <item>Make what\'s perfect more human.</item>
+        <item>Mechanicalise something idiosyncratic.</item>
+        <item>Move towards the unimportant.</item>
+        <item>Mute and continue.</item>
+        <item>Not building a wall but making a brick.</item>
+        <item>Not building a wall; making a brick.</item>
+        <item>Once the search has begun, something will be found.</item>
+        <item>Once the search is in progress, something will be found.</item>
+        <item>Only a part, not the whole.</item>
+        <item>Only one element of each kind.</item>
+        <item>Openly resist change.</item>
+        <item>Overtly resist change.</item>
+        <item>Pae White\'s non-blank graphic metacard.</item>
+        <item>Put in earplugs.</item>
+        <item>Question the heroic.</item>
+        <item>Question the heroic approach.</item>
+        <item>Remember .those quiet evenings.</item>
+        <item>Remember quiet evenings.</item>
+        <item>Remove a restriction.</item>
+        <item>Remove ambiguities and convert to specifics.</item>
+        <item>Remove specifics and convert to ambiguities.</item>
+        <item>Repetition is a form of change.</item>
+        <item>Retrace your steps.</item>
+        <item>Revaluation (a warm feeling)</item>
+        <item>Reverse.</item>
+        <item>Short circuit.</item>
+        <item>Shut the door and listen from outside.</item>
+        <item>Simple subtraction.</item>
+        <item>Simply a matter of work.</item>
+        <item>Slow preparation, fast execution.</item>
+        <item>Slow preparation..Fast execution.</item>
+        <item>Spectrum analysis.</item>
+        <item>State the problem as clearly as possible.</item>
+        <item>State the problem in words as clearly as possible.</item>
+        <item>State the problem in words as simply as possible.</item>
+        <item>Take a break.</item>
+        <item>Take away the elements in order of apparent non importance.</item>
+        <item>Take away the elements in order of apparent non-importance.</item>
+        <item>Take away the important parts.</item>
+        <item>Tape your mouth.</item>
+        <item>The inconsistency principle.</item>
+        <item>The most easily forgotten thing is the most important.</item>
+        <item>The most important thing is the thing most easily forgotten.</item>
+        <item>The tape is now the music.</item>
+        <item>Think - inside the work -outside the work.</item>
+        <item>Think -inside the work -outside the work.</item>
+        <item>Think of the radio.</item>
+        <item>Tidy up.</item>
+        <item>Towards the insignificant.</item>
+        <item>Trust in the you of now.</item>
+        <item>Try faking it.</item>
+        <item>Try faking it! (given by Stewart Brand)</item>
+        <item>Turn it upside down.</item>
+        <item>Twist the spine.</item>
+        <item>Use \'unqualified\' people.</item>
+        <item>Use an old idea.</item>
+        <item>Use an unacceptable colour.</item>
+        <item>Use cliches.</item>
+        <item>Use fewer notes.</item>
+        <item>Use filters.</item>
+        <item>Use something nearby as a model.</item>
+        <item>Use your own ideas.</item>
+        <item>Voice nagging suspicions.</item>
+        <item>Voice your suspicions.</item>
+        <item>Water.</item>
+        <item>What are the sections sections of? Imagine a caterpillar moving.</item>
+        <item>What are you really thinking about just now?</item>
+        <item>What are you really thinking about just now? Incorporate.</item>
+        <item>What context would look right?</item>
+        <item>What is the reality of the situation?</item>
+        <item>What is the simplest solution?</item>
+        <item>What mistakes did you make last time?</item>
+        <item>What to increase? What to reduce?</item>
+        <item>What to increase? What to reduce? What to maintain?</item>
+        <item>What to maintain?</item>
+        <item>What were you really thinking about just now?</item>
+        <item>What would your closest friend do?</item>
+        <item>What wouldn\'t you do?</item>
+        <item>When is it for?</item>
+        <item>Where is the edge?</item>
+        <item>Where\'s the edge? Where does the frame start?</item>
+        <item>Which elements can be grouped?</item>
+        <item>Which frame would make this look right?</item>
+        <item>Which parts can be grouped?</item>
+        <item>Who should be doing this job? How would they do it?</item>
+        <item>Work at a different speed.</item>
+        <item>Would anybody want it?</item>
+        <item>Would anyone want it?</item>
+        <item>You are an engineer.</item>
+        <item>You can only make one dot at a time.</item>
+        <item>You don\'t have to be ashamed of using your own ideas.</item>
+        <item>Your mistake was a hidden intention.</item>
+    </string-array>
+</resources>

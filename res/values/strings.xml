@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Oblique Strategies</string>
+
+    <string name="main_activity_label">Oblique Strategies</string>
+
+    <string name="about_dialog_title">About</string>
+    <string name="about_dialog_message">Oblique Strategies 1.0\nby Vitaly Obukhov</string>
+    <string name="about_dialog_button_close">Close</string>
+
+    <string name="main_menu_next_title">Next</string>
+    <string name="main_menu_about_title">About</string>
+    <string name="main_menu_exit_title">Exit</string>
+</resources>
