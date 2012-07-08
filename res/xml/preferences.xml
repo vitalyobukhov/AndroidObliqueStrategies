@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/preferences_style">
+        <ListPreference
+                android:key="@string/preferences_keys_theme"
+                android:title="@string/preferences_theme_title"
+                android:summary="@string/preferences_theme_summary"
+                android:defaultValue="@string/preferences_defaults_theme"
+                android:entries="@array/preferences_theme_texts"
+                android:entryValues="@array/preferences_theme_values">
+        </ListPreference>
+        <ListPreference
+                android:key="@string/preferences_keys_text_size"
+                android:title="@string/preferences_text_size_title"
+                android:summary="@string/preferences_text_size_summary"
+                android:defaultValue="@string/preferences_defaults_text_size"
+                android:entries="@array/preferences_text_size_texts"
+                android:entryValues="@array/preferences_text_size_values">
+        </ListPreference>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/preferences_layout">
+        <CheckBoxPreference
+                android:key="@string/preferences_keys_is_title_visible"
+                android:title="@string/preferences_is_title_visible_title"
+                android:summary="@string/preferences_is_title_visible_summary"
+                android:defaultValue="@bool/preferences_defaults_is_title_visible">
+        </CheckBoxPreference>
+        <CheckBoxPreference
+                android:key="@string/preferences_keys_is_fullscreen"
+                android:title="@string/preferences_is_fullscreen_title"
+                android:summary="@string/preferences_is_fullscreen_summary"
+                android:defaultValue="@bool/preferences_defaults_is_fullscreen">
+        </CheckBoxPreference>
+    </PreferenceCategory>
+</PreferenceScreen>

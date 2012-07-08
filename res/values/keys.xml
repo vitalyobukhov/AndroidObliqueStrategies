@@ -1,0 +1,13 @@
+<resources>
+    <string name="preferences_keys_theme">theme</string>
+    <string name="preferences_defaults_theme">DEFAULT</string>
+
+    <string name="preferences_keys_text_size">text_size</string>
+    <string name="preferences_defaults_text_size">DEFAULT</string>
+
+    <string name="preferences_keys_is_title_visible">is_title_visible</string>
+    <bool name="preferences_defaults_is_title_visible">true</bool>
+
+    <string name="preferences_keys_is_fullscreen">is_fullscreen</string>
+    <bool name="preferences_defaults_is_fullscreen">false</bool>
+</resources>

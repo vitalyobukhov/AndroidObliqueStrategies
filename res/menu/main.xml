@@ -5,6 +5,9 @@
     <item android:id="@+id/main_menu_next"
             android:title="@string/main_menu_next_title"
             android:icon="@android:drawable/ic_menu_rotate"/>
+    <item android:id="@+id/main_menu_preferences"
+          android:title="@string/main_menu_preferences_title"
+          android:icon="@android:drawable/ic_menu_preferences"/>
     <item android:id="@+id/main_menu_about"
             android:title="@string/main_menu_about_title"
             android:icon="@android:drawable/ic_menu_info_details"/>
