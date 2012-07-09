@@ -4,6 +4,7 @@ import android.content.*;
 import android.app.*;
 import android.content.pm.PackageManager;
 import android.content.res.Resources;
+import android.graphics.Color;
 import android.view.*;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
@@ -55,6 +56,12 @@ public class Main extends Activity {
 
         /* should be initialized after content view */
         main_strategy = (TextView)this.findViewById(R.id.main_strategy);
+        main_strategy.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                showRandomStrategy();
+            }
+        });
         setupTextSize();
 
         /* data initialization on first start */
@@ -181,10 +188,6 @@ public class Main extends Activity {
         return result;
     }
 
-    public void onMainStrategyClick(View v) {
-        showRandomStrategy();
-    }
-
     /* strategies routines */
     private String getRandomStrategy() {
         int newStrategy;
@@ -217,11 +220,11 @@ public class Main extends Activity {
         switch (theme) {
 
             case BLACK:
-                setTheme(android.R.style.Theme_Black);
+                setTheme(R.style.black);
                 break;
 
             case WHITE:
-                setTheme(android.R.style.Theme_Light);
+                setTheme(R.style.white);
                 break;
 
             default:
