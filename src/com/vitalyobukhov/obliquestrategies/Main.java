@@ -4,7 +4,6 @@ import android.content.*;
 import android.app.*;
 import android.content.pm.PackageManager;
 import android.content.res.Resources;
-import android.graphics.Color;
 import android.view.*;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
@@ -41,14 +40,16 @@ public class Main extends Activity {
     /* handlers */
     @Override
     protected void onCreate(Bundle activityBundle) {
-        super.onCreate(activityBundle);
-
+        /* should be initialized before oncreate */
         restartRequired = false;
         preferences =  PreferenceManager.getDefaultSharedPreferences(this);
         resources = getResources();
 
-        /* should be initialized before content view */
         setupTheme();
+
+        super.onCreate(activityBundle);
+
+        /* should be initialized before content view */
         setupTitleVisibility();
         setupFullscreenMode();
 
@@ -56,12 +57,6 @@ public class Main extends Activity {
 
         /* should be initialized after content view */
         main_strategy = (TextView)this.findViewById(R.id.main_strategy);
-        main_strategy.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                showRandomStrategy();
-            }
-        });
         setupTextSize();
 
         /* data initialization on first start */
@@ -165,14 +160,10 @@ public class Main extends Activity {
                 String message = String.format(resources.getString(R.string.about_dialog_message), version);
 
                 new AlertDialog.Builder(this)
-                        .setTitle(R.string.about_dialog_title)
                         .setMessage(message)
                         .setIcon(android.R.drawable.ic_dialog_info)
-                        .setPositiveButton(R.string.about_dialog_button_close,
-                                new DialogInterface.OnClickListener() {
-                            @Override
-                            public void onClick(DialogInterface dialogInterface, int i) { }
-                        }).show();
+                        .setPositiveButton(R.string.about_dialog_button_close, null)
+                        .show();
                 break;
 
             /* exit */
@@ -186,6 +177,10 @@ public class Main extends Activity {
         }
 
         return result;
+    }
+
+    public void onMainStrategyClick(View v) {
+        showRandomStrategy();
     }
 
     /* strategies routines */
@@ -219,12 +214,12 @@ public class Main extends Activity {
 
         switch (theme) {
 
-            case BLACK:
-                setTheme(R.style.black);
+            case DARK:
+                setTheme(android.R.style.Theme_Black);
                 break;
 
-            case WHITE:
-                setTheme(R.style.white);
+            case LIGHT:
+                setTheme(android.R.style.Theme_Light);
                 break;
 
             default:

@@ -3,8 +3,8 @@ package com.vitalyobukhov.obliquestrategies;
 
 public enum PreferenceTheme {
     DEFAULT,
-    BLACK,
-    WHITE;
+    DARK,
+    LIGHT;
 
 
     public static PreferenceTheme parse(String value) {
